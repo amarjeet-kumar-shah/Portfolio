@@ -1,2 +1,1 @@
-# Resume
-this is my complete Resume
+**https://dikshantchitara.github.io/Dikshant-Chitara-Portfolio/**
